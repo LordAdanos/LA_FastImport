@@ -1,0 +1,13 @@
+build/
+test/out/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.tlog
+*.log
+.vs/
+__pycache__/
+dist/
+GITHUB_RELEASE.md
